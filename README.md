@@ -1,5 +1,5 @@
 # HapiFhir_Validation_Example
-An example of validating using packages 
+An example of validating using packages (TW Core IG Patient as an example)
 
 ## Description
 
